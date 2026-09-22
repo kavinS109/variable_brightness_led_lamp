@@ -9,4 +9,4 @@ mechanical enclosure, and final assembly.
 	- The lamp shall incorporate a custom PCB designed to fit within and mount to a 3D-printed enclosure.
 
 # System Architecture
-![System Architecture](docs/sytem_architecture.png)
+![System Architecture](docs/system_architecture.png)
