@@ -1,0 +1,13 @@
+# KiCad user/local settings
+*.kicad_prl
+
+# KiCad lock files
+*.lck
+~*
+
+# KiCad backups
+*-backups/
+_restore_backup_*/
+
+# Local PCB editor history
+.history/
