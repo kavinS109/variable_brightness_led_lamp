@@ -15,4 +15,4 @@ mechanical enclosure, and final assembly.
 
 ## 3D CAD Model
 
-[View the lamp in 3D](hardware/cad/lamp.stl)
+[View the lamp in 3D](hardware/cad/lamp_v1.stl)
